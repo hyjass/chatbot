@@ -1,0 +1,375 @@
+[
+    {
+        "questions": ["what is the exam schedule?", "when are exams?", "exam dates"],
+        "keywords": ["exam", "schedule", "dates"],
+        "answer": "Exam schedules are published on the university website 4 weeks before the exam period begins. Check the academic calendar for specific dates."
+    },
+    {
+        "questions": ["what is the full form of SRMCEM?", "what does SRMCEM stand for?"],
+        "keywords": ["full form", "stand for"],
+        "answer": "SRMCEM stands for Shri Ramswaroop Memorial College of Engineering and Management, a premier technical institution in Lucknow."
+    },
+    {
+        "questions": ["where is SRMCEM located?", "what is SRMCEM address?"],
+        "keywords": ["address", "location", "where"],
+        "answer": "SRMCEM is located at Tindola, Faizabad Road, Lucknow - 226028, Uttar Pradesh, India."
+    },
+    {
+        "questions": ["what courses does SRMCEM offer?", "what programs are available?"],
+        "keywords": ["courses", "programs", "degrees"],
+        "answer": "SRMCEM offers B.Tech (CSE, IT, ECE, ME, CE), MBA, MCA, BBA, BCA, B.Pharm, and other technical programs."
+    },
+    {
+        "questions": ["is SRMCEM AICTE approved?", "is SRMCEM UGC approved?"],
+        "keywords": ["approval", "aicte", "ugc"],
+        "answer": "Yes, SRMCEM is approved by AICTE and affiliated to AKTU (Dr. A.P.J. Abdul Kalam Technical University)."
+    },
+    {
+        "questions": ["what is SRMCEM contact number?", "how to contact SRMCEM?"],
+        "keywords": ["contact", "phone", "email"],
+        "answer": "Contact: +91-522-2720555, Email: info@srmcem.ac.in, Website: www.srmcem.ac.in"
+    },
+    {
+        "questions": ["what are B.Tech specializations?", "which engineering branches are available?"],
+        "keywords": ["btech", "branches", "specializations"],
+        "answer": "B.Tech specializations: Computer Science, Information Technology, Electronics, Mechanical, and Civil Engineering."
+    },
+    {
+        "questions": ["what is the admission process?", "how to get admission in SRMCEM?"],
+        "keywords": ["admission", "process", "apply"],
+        "answer": "Admission is through UPSEE/JEE Main for B.Tech, and UPSEE/CAT/MAT for MBA. Visit admissions.srmcem.ac.in for details."
+    },
+    {
+        "questions": ["what is the fee structure?", "what are the course fees?"],
+        "keywords": ["fee", "tuition", "cost"],
+        "answer": "Approximate annual fees: B.Tech (₹1.2L), MBA (₹1L), B.Pharm (₹90k). Exact fees vary by program - check the prospectus."
+    },
+    {
+        "questions": ["does SRMCEM have hostel facilities?", "are hostels available?"],
+        "keywords": ["hostel", "accommodation", "stay"],
+        "answer": "Yes, SRMCEM provides separate hostels for boys and girls with modern amenities. Fees approx. ₹60k/year including meals."
+    },
+    {
+        "questions": ["what are library timings?", "when is library open?"],
+        "keywords": ["library", "timings", "hours"],
+        "answer": "Library hours: 8:30 AM to 8:00 PM (Mon-Sat). Sundays and holidays: 9:00 AM to 5:00 PM."
+    },
+    {
+        "questions": ["does SRMCEM provide placement?", "what is placement record?"],
+        "keywords": ["placement", "jobs", "recruitment"],
+        "answer": "SRMCEM has a placement cell with 80%+ placement rate. Top recruiters: TCS, Wipro, Infosys, Capgemini, and others."
+    },
+    {
+        "questions": ["what is the campus size?", "how big is SRMCEM campus?"],
+        "keywords": ["campus", "size", "area"],
+        "answer": "SRMCEM has a 25-acre green campus with modern infrastructure including labs, sports facilities, and auditoriums."
+    },
+    {
+        "questions": ["does college provide transportation?", "are buses available?"],
+        "keywords": ["transport", "bus", "commute"],
+        "answer": "Yes, college buses operate on major routes in Lucknow. Fees approx. ₹15k/year. Route details available at transport office."
+    },
+    {
+        "questions": ["what are the documents required for admission?", "admission documents list?"],
+        "keywords": ["documents", "admission", "required"],
+        "answer": "10th/12th marksheets, transfer certificate, character certificate, migration certificate, UPSEE rank card (if applicable), and ID proof."
+    },
+    {
+        "questions": ["does SRMCEM have NBA accreditation?", "is SRMCEM accredited?"],
+        "keywords": ["nba", "accreditation", "naac"],
+        "answer": "Selected programs at SRMCEM are NBA accredited. The college is also ISO 9001:2015 certified."
+    },
+    {
+        "questions": ["what is the student faculty ratio?", "how many teachers per student?"],
+        "keywords": ["faculty", "ratio", "teachers"],
+        "answer": "SRMCEM maintains a healthy 15:1 student-faculty ratio with qualified professors and industry experts."
+    },
+    {
+        "questions": ["are scholarships available?", "how to get scholarship?"],
+        "keywords": ["scholarship", "financial aid", "help"],
+        "answer": "Merit-based and need-based scholarships available. UP government scholarships also applicable. Contact accounts office."
+    },
+    {
+        "questions": ["what are the lab facilities?", "does college have good labs?"],
+        "keywords": ["lab", "laboratory", "facilities"],
+        "answer": "State-of-the-art labs: Computer labs with 500+ systems, IoT/robotics lab, language lab, and department-specific technical labs."
+    },
+    {
+        "questions": ["what sports facilities are available?", "does college have sports?"],
+        "keywords": ["sports", "games", "physical"],
+        "answer": "Cricket ground, basketball court, badminton courts, table tennis, gymnasium, and annual sports meet."
+    },
+    {
+        "questions": ["what is the dress code?", "is uniform compulsory?"],
+        "keywords": ["dress", "uniform", "code"],
+        "answer": "Formal dress code (shirt/trousers for boys, salwar-kameez/saree for girls). Lab coats for practical sessions."
+    },
+    {
+        "questions": ["how is the campus wifi?", "is internet available?"],
+        "keywords": ["wifi", "internet", "connectivity"],
+        "answer": "High-speed wifi across campus with 24/7 availability for academic purposes. Login credentials provided after admission."
+    },
+    {
+        "questions": ["what cultural events happen?", "does college have fests?"],
+        "keywords": ["events", "fest", "cultural"],
+        "answer": "Annual fest 'TECHNEX', technical symposiums, hackathons, and cultural programs throughout the year."
+    },
+    {
+        "questions": ["what are canteen facilities?", "how is the food?"],
+        "keywords": ["canteen", "food", "mess"],
+        "answer": "Spacious canteen serving hygienic North Indian meals (₹40-60 per meal). Snack counters also available."
+    },
+    {
+        "questions": ["what is the attendance policy?", "how much attendance required?"],
+        "keywords": ["attendance", "policy", "rules"],
+        "answer": "Minimum 75% attendance required in each subject. Medical leave applications must be submitted with documents."
+    },
+    {
+        "questions": ["does college help with internships?", "how to get internship?"],
+        "keywords": ["internship", "training", "summer"],
+        "answer": "Training & Placement cell facilitates summer internships. Students can also approach companies through college MoUs."
+    },
+    {
+        "questions": ["what student clubs exist?", "are there extracurricular activities?"],
+        "keywords": ["clubs", "activities", "extracurricular"],
+        "answer": "Technical clubs (IEEE, CSI), cultural clubs, entrepreneurship cell, NSS, and sports committees."
+    },
+    {
+        "questions": ["how to reach SRMCEM?", "what is the nearest landmark?"],
+        "keywords": ["reach", "landmark", "directions"],
+        "answer": "Nearest landmark: Near CRPF Camp, Tindola. 15km from Lucknow Airport, 12km from Charbagh Railway Station."
+    },
+    {
+        "questions": ["what medical facilities exist?", "is there a college doctor?"],
+        "keywords": ["medical", "health", "doctor"],
+        "answer": "First-aid center with nurse available. Tie-ups with nearby hospitals for emergencies. Annual health checkups conducted."
+    },
+    {
+        "questions": ["what is the academic calendar?", "when does session start?"],
+        "keywords": ["calendar", "session", "academic"],
+        "answer": "Odd semester: July-Dec, Even semester: Jan-May. Exact dates vary yearly - check college notice board."
+    },
+    {
+        "questions": ["are there any research opportunities?", "can I do research projects?"],
+        "keywords": ["research", "projects", "innovation"],
+        "answer": "Yes, faculty guide research projects. Students can participate in conferences and publish papers through college support."
+    },
+    {
+        "questions": ["what is the alumni network like?", "where do alumni work?"],
+        "keywords": ["alumni", "network", "graduates"],
+        "answer": "Strong alumni network with graduates at Google, Amazon, TCS, L&T, and other top companies. Annual alumni meet conducted."
+    },
+    {
+        "questions": ["does college have anti-ragging policy?", "is ragging allowed?"],
+        "keywords": ["ragging", "policy", "harassment"],
+        "answer": "Strict anti-ragging policy enforced. Zero tolerance - offenders face immediate disciplinary action including expulsion."
+    },
+    {
+        "questions": ["what are examination rules?", "how are exams conducted?"],
+        "keywords": ["exams", "rules", "semester"],
+        "answer": "Semester pattern with internal assessments (30%) and university exams (70%). Malpractice leads to serious consequences."
+    },
+    {
+        "questions": ["can I get transfer certificate?", "how to get TC from SRMCEM?"],
+        "keywords": ["tc", "transfer certificate", "leaving"],
+        "answer": "Submit application to registrar office with no-dues certificate. Processing takes 7-10 working days."
+    },
+    {
+        "questions": ["what are the banking facilities?", "is there ATM on campus?"],
+        "keywords": ["bank", "atm", "financial"],
+        "answer": "Yes, SBI branch and ATM available within campus. Fee payments can be made through college bank account."
+    },
+    {
+        "questions": ["does college have incubation center?", "is there startup support?"],
+        "keywords": ["startup", "incubation", "entrepreneurship"],
+        "answer": "Yes, SRMCEM has 'Innovation & Entrepreneurship Development Center' supporting student startups with mentorship and funding."
+    },
+    {
+        "questions": ["what are the library resources?", "how many books in library?"],
+        "keywords": ["library", "books", "resources"],
+        "answer": "50,000+ books, 100+ print journals, 5000+ e-journals through DELNET, and online databases access."
+    },
+    {
+        "questions": ["are there international collaborations?", "foreign university tie-ups?"],
+        "keywords": ["international", "collaborations", "foreign"],
+        "answer": "Yes, MoUs with universities in UK, Germany and Australia for student/faculty exchange programs."
+    },
+    {
+        "questions": ["what is the refund policy?", "can I get fee refund?"],
+        "keywords": ["refund", "fee", "policy"],
+        "answer": "As per AKTU norms - 90% refund before session starts, reducing progressively. No refund after 1 month of commencement."
+    },
+    {
+        "questions": ["how to check results?", "where to see exam marks?"],
+        "keywords": ["results", "marks", "grades"],
+        "answer": "University results at aktu.ac.in. Internal assessments displayed on college notice boards and ERP portal."
+    },
+    {
+        "questions": ["what is the grievance process?", "how to complain about issues?"],
+        "keywords": ["grievance", "complaint", "issue"],
+        "answer": "Submit written complaint to HOD or use suggestion boxes across campus. Online grievance portal also available."
+    },
+    {
+        "questions": ["does college organize industrial visits?", "are there company tours?"],
+        "keywords": ["industrial", "visits", "tours"],
+        "answer": "Yes, department-wise visits to companies like HAL, BHEL, and IT parks organized every semester."
+    },
+    {
+        "questions": ["what are the computer lab specs?", "how many computers available?"],
+        "keywords": ["computer", "lab", "systems"],
+        "answer": "500+ systems with i5 processors, 8GB RAM, licensed software. 24/7 access to final year project students."
+    },
+    {
+        "questions": ["can I change my branch?", "is branch migration allowed?"],
+        "keywords": ["branch", "change", "migration"],
+        "answer": "Possible only after 1st year based on merit and seat availability, as per AKTU regulations."
+    },
+    {
+        "questions": ["what are the gym facilities?", "is there workout equipment?"],
+        "keywords": ["gym", "workout", "fitness"],
+        "answer": "Well-equipped gym with trainer guidance available mornings and evenings. Separate timings for boys and girls."
+    },
+    {
+        "questions": ["how to apply for leave?", "what is leave application process?"],
+        "keywords": ["leave", "application", "absent"],
+        "answer": "Submit leave application to class coordinator in advance (except emergencies). Medical leave requires doctor's certificate."
+    },
+    {
+        "questions": ["what are the project guidelines?", "how to do final year project?"],
+        "keywords": ["project", "guidelines", "final year"],
+        "answer": "Groups of 3-4 students, faculty guide allocation in 7th sem. Regular reviews and final viva voce examination."
+    },
+    {
+        "questions": ["does college have coding clubs?", "what tech clubs exist?"],
+        "keywords": ["coding", "tech", "clubs"],
+        "answer": "Yes, active coding clubs like CodeChef SRMCEM Chapter, Google Developer Student Club, and Hackathon teams."
+    },
+    {
+        "questions": ["what are the training programs?", "does college provide skill training?"],
+        "keywords": ["training", "skill", "programs"],
+        "answer": "Regular workshops on AI/ML, IoT, soft skills, and aptitude training. Certification courses available through Coursera."
+    },
+    {
+        "questions": ["how to access e-resources?", "what online materials available?"],
+        "keywords": ["e-resources", "online", "materials"],
+        "answer": "Access through college library portal using your enrollment ID. Includes e-books, NPTEL videos, and research papers."
+    },
+    {
+        "questions": ["what are the seminar hall facilities?", "how big is auditorium?"],
+        "keywords": ["seminar", "auditorium", "hall"],
+        "answer": "500-seat AC auditorium with modern AV systems. 4 seminar halls with 100-150 capacity each for departmental events."
+    },
+    {
+        "questions": ["does college have NSS/NCC?", "what social activities exist?"],
+        "keywords": ["nss", "ncc", "social"],
+        "answer": "Active NSS unit organizing blood donation camps, village adoption programs. NCC available as optional subject."
+    },
+    {
+        "questions": ["what are the transportation charges?", "how much for college bus?"],
+        "keywords": ["transportation", "bus", "charges"],
+        "answer": "Approx. ₹15,000/year for college buses covering major routes in Lucknow. Monthly passes also available."
+    },
+    {
+        "questions": ["how to get duplicate ID card?", "lost my college ID"],
+        "keywords": ["id", "card", "duplicate"],
+        "answer": "Submit application to admin office with ₹500 fee and police complaint copy (if lost). Ready in 3 working days."
+    },
+    {
+        "questions": ["what are the parking facilities?", "can I bring my vehicle?"],
+        "keywords": ["parking", "vehicle", "bike"],
+        "answer": "Designated parking for students (free for cycles, ₹100/month for bikes, ₹300/month for cars). Security guarded."
+    },
+    {
+        "questions": ["does college have a newsletter?", "how to get college updates?"],
+        "keywords": ["newsletter", "updates", "news"],
+        "answer": "Monthly e-newsletter 'SRMCEM Chronicle' sent to registered emails. Follow official social media pages for updates."
+    },
+    {
+        "questions": ["what are the rules for outpass?", "how to get hostel outpass?"],
+        "keywords": ["outpass", "hostel", "leave"],
+        "keywords": ["outpass", "hostel", "leave"],
+        "answer": "Hostel students need warden approval for outpass. Day scholars don't require outpass during college hours."
+    },
+    {
+        "questions": ["what companies visit SRMCEM for placements?", "which recruiters come to campus?"],
+        "keywords": ["companies", "recruiters", "placement"],
+        "answer": "Top recruiters: TCS, Wipro, Infosys, Capgemini, Accenture, Tech Mahindra, L&T Infotech, HCL, IBM, and many more IT/engineering firms."
+    },
+    {
+        "questions": ["what is the average package at SRMCEM?", "average salary offered?"],
+        "keywords": ["package", "salary", "average"],
+        "answer": "Average package: ₹4.5 LPA for B.Tech, ₹5 LPA for MBA. Highest package goes up to ₹12-15 LPA for exceptional candidates."
+    },
+    {
+        "questions": ["how to prepare for placements?", "placement preparation tips?"],
+        "keywords": ["prepare", "placement", "tips"],
+        "answer": "Focus on: 1) Core technical concepts 2) Aptitude practice 3) Coding skills (HackerRank/LeetCode) 4) Mock interviews 5) Soft skills training provided by T&P cell."
+    },
+    {
+        "questions": ["does SRMCEM provide internship opportunities?", "how to get internships?"],
+        "keywords": ["internship", "training", "summer"],
+        "answer": "Yes! 70% students get summer internships through: 1) Campus drives 2) Faculty referrals 3) College MoUs with companies 4) Self-applications with college guidance."
+    },
+    {
+        "questions": ["when do placement drives start?", "placement season timeline?"],
+        "keywords": ["placement", "drives", "timeline"],
+        "answer": "Placement season starts from July for final year students. Mass recruiters visit July-Dec, core companies Jan-Mar. Pre-placement talks begin in 3rd year itself."
+    },
+    {
+        "questions": ["what is the placement percentage?", "how many students get placed?"],
+        "keywords": ["placement", "percentage", "rate"],
+        "answer": "Average placement rate: 80-85% for eligible students (maintaining 60%+ academics and no active backlogs). Computer Science branch has 90%+ placement rate."
+    },
+    {
+        "questions": ["does college provide placement training?", "what training is given?"],
+        "keywords": ["training", "placement", "preparation"],
+        "answer": "Yes! Comprehensive training includes: 1) Aptitude classes 2) Technical workshops 3) Mock GD/PI 4) Resume building 5) HR interview skills - starts from 3rd year."
+    },
+    {
+        "questions": ["can I get off-campus placement help?", "support for non-campus placements?"],
+        "keywords": ["off-campus", "placement", "support"],
+        "answer": "T&P cell provides: 1) Company referral letters 2) Recommendation letters 3) Interview preparation 4) Test series even for off-campus opportunities."
+    },
+    {
+        "questions": ["hello", "hi", "hey"],
+        "keywords": ["hello", "hi", "hey"],
+        "answer": "Hello! I'm your SRMCEM assistant. How can I help you today?"
+    },
+    {
+        "questions": ["good morning", "good afternoon", "good evening"],
+        "keywords": ["morning", "afternoon", "evening"],
+        "answer": "Good day! Welcome to SRMCEM helpdesk. What information do you need?"
+    },
+    {
+        "questions": ["thank you", "thanks", "thanks a lot"],
+        "keywords": ["thank", "thanks"],
+        "answer": "You're welcome! Feel free to ask if you have any other questions about SRMCEM."
+    },
+    {
+        "questions": ["bye", "goodbye", "see you"],
+        "keywords": ["bye", "goodbye"],
+        "answer": "Goodbye! Visit again if you need more information about SRMCEM. Have a great day!"
+    },
+
+    {
+        "questions": ["who is the placement officer?", "contact for placement queries?"],
+        "keywords": ["placement", "officer", "contact"],
+        "answer": "Dr. Alok Mishra (Placement Head). Email: placement@srmcem.ac.in | Phone: 0522-2720555 (Ext. 121). Office: Ground Floor, Admin Block."
+    },
+    {
+        "questions": ["what is the dress code for placements?", "what to wear for interviews?"],
+        "keywords": ["dress", "interview", "code"],
+        "answer": "Formal attire compulsory: For boys - Suit/Formal shirt+tie. For girls - Formal suit/saree. Avoid casuals during placement drives."
+    },
+
+    {
+        "questions": ["how many students placed last year?", "placement statistics?"],
+        "keywords": ["statistics", "placed", "numbers"],
+        "answer": "2023 Placement Report: 850+ offers | 120+ companies | Highest package: ₹14.5 LPA (Amazon) | Average package: ₹4.8 LPA. Detailed report available at T&P office."
+    },
+    {
+        "questions": ["are international placements possible?", "foreign companies visit?"],
+        "keywords": ["international", "foreign", "abroad"],
+        "answer": "Yes! Some students get offers through: 1) Indian MNCs with global opportunities 2) Alumni referrals abroad 3) College's international MoUs. 15+ students placed overseas last year."
+    }
+]

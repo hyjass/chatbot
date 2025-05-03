@@ -1,0 +1,44 @@
+{% extends "base.html" %}
+{% block content %}
+<div class="dashboard-container">
+    <div class="sidebar">
+        <div class="user-profile">
+            <div class="avatar">
+                <i class="fas fa-user"></i>
+            </div>
+            <h3>{{ user_name }}</h3>
+            <p>Student</p>
+        </div>
+        
+        <nav class="sidebar-nav">
+            <a href="#" class="active"><i class="fas fa-comments"></i> Chatbot</a>
+            <a href="#"><i class="fas fa-history"></i> Chat History</a>
+            <a href="#"><i class="fas fa-cog"></i> Settings</a>
+            <a href="{{ url_for('logout') }}"><i class="fas fa-sign-out-alt"></i> Logout</a>
+        </nav>
+    </div>
+    
+    <div class="main-content">
+        <div class="chat-container">
+            <div class="chat-header">
+                <h2>Campus Enquiry Chatbot</h2>
+                <p>Ask me anything about the campus facilities, schedules, and more!</p>
+            </div>
+            
+            <div class="chat-messages" id="chat-messages">
+                <!-- Messages will appear here -->
+                <div class="bot-message">
+                    <div class="message-content">
+                        <p>Hello! I'm your campus enquiry assistant. How can I help you today?</p>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="chat-input">
+                <input type="text" id="user-input" placeholder="Type your question here...">
+                <button id="send-button"><i class="fas fa-paper-plane"></i></button>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
