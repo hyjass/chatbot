@@ -36,6 +36,16 @@ def home():
         return redirect(url_for('dashboard'))
     return redirect(url_for('login'))
 
+@app.route('/settings')
+def settings():
+    if 'user_id' not in session:
+        return redirect(url_for('login'))
+    
+    # Get user information
+    user = User.query.get(session['user_id'])
+    
+    return render_template('settings.html', user_name=session['user_name'], user=user)
+
 @app.route('/login', methods=['GET', 'POST'])
 def login():
     if request.method == 'POST':
