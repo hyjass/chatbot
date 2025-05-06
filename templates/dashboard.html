@@ -13,7 +13,7 @@
         <nav class="sidebar-nav">
             <a href="#" class="active"><i class="fas fa-comments"></i> Chatbot</a>
             <a href="#"><i class="fas fa-history"></i> Chat History</a>
-            <a href="#"><i class="fas fa-cog"></i> Settings</a>
+            <a href="{{ url_for('settings') }}"><i class="fas fa-cog"></i> Settings</a>
             <a href="{{ url_for('logout') }}"><i class="fas fa-sign-out-alt"></i> Logout</a>
         </nav>
     </div>
